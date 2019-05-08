@@ -1,0 +1,26 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - About: about.md
+    - About2: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+    - About: about.md
+
+theme:
+    readthedocs
+
+markdown_extensions:
+  - extra
+  - tables
+  - fenced_code
+extra_javascript:
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML
+  - mathjaxhelper.js
